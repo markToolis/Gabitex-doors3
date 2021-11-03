@@ -1,0 +1,372 @@
+Uri: https://gabitex-doors.ru/
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\index.htm
+Content Type: text/html
+
+Uri: https://gabitex-doors.ru/css/fullpage.css
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\css\fullpage.css
+Content Type: text/css
+
+Uri: https://gabitex-doors.ru/css/all.css
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\css\all.css
+Content Type: text/css
+
+Uri: https://gabitex-doors.ru/css/jquery.fancybox.css
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\css2.css
+Content Type: text/css
+
+Uri: https://gabitex-doors.ru/images/blocks/favicons/apple-touch-icon.png
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://gabitex-doors.ru/images/blocks/favicons/favicon-32x32.png
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://gabitex-doors.ru/images/blocks/favicons/favicon-16x16.png
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://gabitex-doors.ru/images/blocks/favicons/site.webmanifest
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\favicons\site.webmanifest
+Content Type: 
+
+Uri: https://gabitex-doors.ru/images/blocks/favicons/safari-pinned-tab.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/blocks/favicons/favicon.ico
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\favicons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://gabitex-doors.ru/images/logo.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/10.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\10.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/7.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\7.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/6.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\6.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/8.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\8.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/9.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\9.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/11.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\11.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/12.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\12.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/13.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\13.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/14.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\14.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/15.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\15.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/16.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\16.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/17.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\17.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/1.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\1.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/3.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\3.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/color/5.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\color\5.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/ruble.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\ruble.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/1.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\1.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/2.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\2.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/3.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\3.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/4.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\4.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/5.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\5.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/6.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\6.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/7.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\7.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/shpon/8.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\shpon\8.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/1.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\1.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/2.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\2.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/3.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\3.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/4.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\4.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/5.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\5.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/6.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\6.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/7.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\7.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/8.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\8.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/9.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\9.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/10.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\10.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/glass/11.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\glass\11.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/mirror/1.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\mirror\1.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/mirror/2.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\mirror\2.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/mirror/3.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\mirror\3.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/mirror/4.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\mirror\4.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/ceramic/4.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\ceramic\4.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/ceramic/5.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\ceramic\5.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/ceramic/6.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\ceramic\6.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/ceramic/2.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\ceramic\2.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/ceramic/3.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\ceramic\3.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/corob.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\corob.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/zapolnenie.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\zapolnenie.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/oblicovka.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\oblicovka.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/zamok.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\zamok.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/petli.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\petli.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/uplotnitel.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\uplotnitel.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/rama.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\rama.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/corob-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\corob-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/zapolnenie-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\zapolnenie-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/oblicovka-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\oblicovka-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/zamok-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\zamok-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/petli-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\petli-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/uplotnitel-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\uplotnitel-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/construction/rama-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\construction\rama-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/raspach.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\raspach.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/razdvig.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\razdvig.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/penal.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\penal.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/magic.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\magic.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/raspach-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\raspach-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/razdvig-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\razdvig-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/penal-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\penal-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/images/blocks/slider/system-open/magic-thumb.jpg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\blocks\slider\system-open\magic-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://gabitex-doors.ru/js/jquery.min.js
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://gabitex-doors.ru/js/fullpage.min.js
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\js\fullpage.min.js
+Content Type: application/javascript
+
+Uri: https://gabitex-doors.ru/js/slick.min.js
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://gabitex-doors.ru/js/jquery.fancybox.min.js
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://gabitex-doors.ru/js/jquery.maskedinput.min.js
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://gabitex-doors.ru/js/cform.js
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\js\cform.js
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU&mode=debug
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://gabitex-doors.ru/js/f.js
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\js\f.js
+Content Type: application/javascript
+
+Uri: https://gabitex-doors.ru/images/left-nav.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\left-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/right-nav.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\right-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/left-nav-black.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\left-nav-black.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/right-nav-black.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\right-nav-black.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/check-ico.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\check-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://gabitex-doors.ru/images/play-ico.svg
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\images\play-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://mc.yandex.ru/watch/83902171/1
+File Name: C:\Users\mrkki\Desktop\изи мани\gabitex-doors.ru\watch\83902171\1.gif
+Content Type: image/gif
+
