@@ -1503,7 +1503,7 @@ p {
   }
 
   .logo-box {
-    width: 172px;
+    width: 250px;
     padding:15px;
     display:-webkit-box;
     display:-ms-flexbox;
@@ -1789,6 +1789,20 @@ p {
 @media (max-width: 470px){
   .btn-right{
     width: 100%;
-    
+
   }
+}
+@media (max-width: 1024px){
+  .bgcw{
+    margin-bottom: 55px;
+
+  }
+  .price{
+    padding-top: 18px;
+  }
+}
+.tell{
+  width: 30px;
+  height: 30px;
+  display: block;
 }
