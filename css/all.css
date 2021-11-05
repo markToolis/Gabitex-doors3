@@ -1816,4 +1816,7 @@ p {
   .tell img {
     z-index: 10001;
   }
+  .list li {
+    padding-left: 24px;
+  } 
 }
