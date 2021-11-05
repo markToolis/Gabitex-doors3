@@ -1730,7 +1730,7 @@ p {
 
   #section0 .right-aside-mobile {
     margin-top:61px; 
-    padding-top:15px;
+    padding-top:60px;
   }
 
   .hide-mobile {
@@ -1872,5 +1872,15 @@ p {
   }
   .form-btn{
     margin-bottom: 30px;
+  }
+  .hb{
+    margin-bottom:0;
+    text-align: center;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 110%;
+    color: #F88B3B;
   }
 }
