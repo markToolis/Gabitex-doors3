@@ -1802,7 +1802,18 @@ p {
   }
 }
 .tell{
-  width: 30px;
-  height: 30px;
-  display: block;
+  display: none;
+}
+@media (max-width: 1024px){
+  .tell{
+    display: block;
+    width: 30px;
+    height: 30px;
+    display: block;
+    z-index: 10000;
+    margin-right: 25px;
+  }
+  .tell img {
+    z-index: 10001;
+  }
 }
