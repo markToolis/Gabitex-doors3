@@ -1340,7 +1340,13 @@ p {
   max-width:100%;
   border-radius: 20px;
 }
-
+@media (max-width:1024px){
+  .fancybox-content {
+  width: 309px;
+  max-width:100%;
+  border-radius: 20px;
+  }
+}
 .fancybox-content .btn {
   width:271px;
 }
@@ -1795,7 +1801,7 @@ p {
 @media (max-width: 1024px){
   .bgcw{
     margin-bottom: 55px;
-
+    height: 48px;
   }
   .price{
     padding-top: 18px;
@@ -1819,11 +1825,52 @@ p {
   .list li {
     padding-left: 24px;
   } 
-  .btn{
+  .btn .btn-right{
     height: 48px;
   }
   .btn-right p{
     font-size: 16px;
     padding-top: 12px;
   } 
+}
+@media (max-width:1024px) {
+  .btn, .btn-right{
+    height: 48px;
+  }
+}
+@media(max-width:1024px){
+  .agree{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 120%;
+    padding-right: 18px;
+    padding-left: 20px;
+  }
+  .form-group__lable{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    padding-left: 21px;
+    padding-bottom: 8px;
+  }
+  .form-title{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 24px;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 32px;
+  }
+  .form-group{
+    margin-bottom: 16px;
+  }
+  .form-btn{
+    margin-bottom: 30px;
+  }
 }

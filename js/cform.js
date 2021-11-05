@@ -249,7 +249,7 @@ cForm.prototype = {
 		}
 		else {
 			if($(self).hasClass('validation-phone')) {
-				var $reg = /^\+7\s\([\d]{2,3}\)\s[\d]{2,3}\s-\s[\d]{2,3}\s-\s[\d]{2,3}$/i;
+				var $reg = /^\+375\s\([\d]{2,3}\)\s[\d]{2,3}\s-\s[\d]{2,3}\s-\s[\d]{2,3}$/i;
 				var $validation = $reg.test($val);
 				var $type = 'phone';
 			}
