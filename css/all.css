@@ -1819,4 +1819,11 @@ p {
   .list li {
     padding-left: 24px;
   } 
+  .btn{
+    height: 48px;
+  }
+  .btn-right p{
+    font-size: 16px;
+    padding-top: 12px;
+  } 
 }
