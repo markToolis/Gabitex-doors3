@@ -41,7 +41,7 @@ $(document).ready(function(){
 		dots: false,
 		fade: true,
 		adaptiveHeight: true,
-		asNavFor: '.slider-nav',
+		asNavFor: '.slider-nav'
 	});
 
 	$('.slider-6').on('afterChange', function(slick, currentSlide) {
